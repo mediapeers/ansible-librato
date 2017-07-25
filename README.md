@@ -39,6 +39,7 @@ To include a plugin, set any variables you need for it, then add it to the `libr
 * `load`
 * `disk`
 * `swap`
+* `interface`
 * `apache`
 * `nginx`
 * `nginx_plus`
